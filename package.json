@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "csv": "^2.0.0",
+    "node-fetch": "^2.0.0"
+  }
+}
